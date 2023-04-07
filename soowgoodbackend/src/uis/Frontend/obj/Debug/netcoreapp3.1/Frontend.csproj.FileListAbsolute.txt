@@ -1,0 +1,271 @@
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\SooGood\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\SooGooD Code\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\SooGooD Code\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\New folder\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\03032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\09032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\17032021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Faysal\home\project\08042021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\.NET Core\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\.NET Core\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\Imon\soogood\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\Imon\soogood\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Tanbir\soogoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Tanbir\soogoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frontend.styles.css
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+E:\Tanbir\soowgoodbackend\src\uis\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache

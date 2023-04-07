@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\OfficeData\angular_workspace\soowgood\videocalling_blazor\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\OfficeData\angular_workspace\soowgood\videocalling_blazor\Client\bin\Release\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

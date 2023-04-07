@@ -1,0 +1,328 @@
+﻿:root {
+    --twilio-red: #F22F46;
+    --twilio-blue: #0D122B;
+}
+
+.twilio-text {
+    color: var(--twilio-red);
+}
+
+a.list-group-item.list-group-item-action.active {
+    background-color: var(--twilio-blue);
+    border-color: var(--twilio-blue);
+}
+
+.twilio-btn-red {
+    background-color: var(--twilio-red);
+    border-color: var(--twilio-red);
+    color: #fff;
+}
+
+    .twilio-btn-red:not(:disabled):hover {
+        background-color: #D31027;
+        border-color: #D31027;
+    }
+
+.twilio-btn-blue {
+    background-color: var(--twilio-blue);
+    border-color: var(--twilio-blue);
+    color: #fff;
+}
+
+    .twilio-btn-blue:not(:disabled):hover {
+        background-color: #00000C;
+        border-color: #00000C;
+    }
+
+input:disabled, .btn:disabled {
+    border-color: #444;
+    cursor: not-allowed;
+}
+
+audio {
+    display: none;
+}
+
+
+.initiatecall {
+    margin: auto !important;
+    width: 50% !important;
+    position:relative !important;
+}
+
+
+.startedcall {
+    width: 30% !important;
+    position: absolute !important;
+    right: 0px;
+    
+}
+
+.participants-grid {
+    width: 100%;
+    height: 75%;
+}
+
+    .participants-grid > div:nth-of-type(1) {        
+       z-index:1111111111;      
+    }
+
+    .participants-grid > div:nth-of-type(2) {
+        width: 100%;
+        height: 100%
+    }
+
+    
+
+/*app {
+    position: relative;
+    height: 100vh;
+}*/
+
+.main {
+     
+}
+
+.content {
+    padding-top: 1.1rem;
+}
+
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.validation-message {
+    color: red;
+}
+
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+.twilio-btn-blue {
+    background-color: #30BCED;
+}
+
+.btn{
+    font-size:12px;
+}
+
+h4 {
+    font-size: 14px !important;
+}
+
+body {
+    color: #01204e !important;
+    text-align: left;
+    background-color: #FFFFFF !important;
+    font-size: 13px !important;
+}
+
+.banner {
+    background: #1e293b;
+    color: #FFFFFF;
+    margin-bottom:10px;
+}
+
+.logo_sooWGood {
+    width: 15rem;
+    padding: 10px 5px;
+}
+
+.fas {
+    margin-right:5px !important;
+}
+
+.leaveCall {
+    padding: 50px;
+    text-align: center;
+    border: 1px solid #696969;
+    border-radius: 5px;
+    margin-top: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+.errorpage {
+    background-image: url('../images/errorpage.png');
+    height: 500px;
+    background-position: center;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+
+.spinner {
+    border: 16px solid silver;
+    border-top: 16px solid #337AB7;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 700ms linear infinite;
+    top: 45%;
+    left: 50%;
+    position: absolute;
+}
+
+
+.spinner1 {
+    border: 16px solid silver;
+    border-top: 16px solid #337AB7;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 700ms linear infinite;
+    top: -100px;
+    left: 46%;
+    position: absolute;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+
+#dropdownSingleMenuButton::after {
+    display: none;
+}
+
+
+.loadingdiv {
+    z-index: 9999999999999999999999999999999999;
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    display: block;
+    position: absolute;
+    opacity: 0.5;
+}
+
+
+.avtar {    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+
+.inneravtar {
+    background-color: #01204e;
+   
+}
+
+
+.innertext {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    border: 5px solid #FFFFFF;
+    padding: 40px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 40px 10px grey;
+    left: 35%
+}
+
+
+.hide{
+    visibility:hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.username{
+    font-size:15px;
+    text-align:center;
+    font-weight:bold;
+}
+
+
+.remote{
+    margin-top:-55px;
+    text-align:center;
+}
+
+    .remote i {
+        font-size: 20px;
+        width: 50px;
+        padding: 15px;
+        border-radius: 50%;         
+        color: #FFFFFF;
+/*        background-color: #01204e !important;*/
+    }
+
+
+.beforejoin {
+   
+    width: 100%;
+    height:100%;
+    margin-top:200px;
+    text-align:center;
+    font-weight:bold;
+    font-size:15px
+   
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .initiatecall {        
+        width: 100% !important;        
+    }
+
+
+    .startedcall {
+        width:100% !important;
+        position: absolute !important;
+        right: -25%;
+    }
+
+    .embed-responsive-participant{
+        height:600px !important;
+    }
+
+    .paticipentloaderbeforejoin {
+        margin-top: -450px !important;
+    }
+
+    .innertext {      
+        left: 25%
+    }
+
+
+}
+

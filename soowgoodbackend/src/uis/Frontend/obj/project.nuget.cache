@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nscJkX01ptjtLQFK1s6T8WsKt90+rUVarXah5wdzwqWIFLK+pCFPdTPBTXkpGBcV7vQ3L83Rt7HPerK4MzyELg==",
+  "success": true,
+  "projectFilePath": "E:\\OfficeData\\angular_workspace\\soowgood\\soowgoodbackend\\src\\uis\\Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,249 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\S4LNBrH3WJ_TNlfvR_niUBieqBh_259aY3MeOmmAr3M=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\MessagePack.Annotations.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/MessagePack.Annotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZhD9A82H72cuiV2M76xq-VGOSHvj2DO-Rs42N7FKm8k=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\MessagePack.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/MessagePack.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\h6DQghdz9AsIFBgx4Ww5g238LLft1hQPulf1MA86SIM=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KC5oFf7CoMPYZg-_N4gLFB0zYW5ZjEUe97E0dwTjZb4=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Y4gyIPJfOR0eFCZekqO1N8QVsmyF31qrPjE1Vo9e5d0=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\noIh0trtwKGtaKBJqkJ-gpinvc8rO9ZpqD3cnm3Avq4=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Connections.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tNAEx_7prd-XjFK_OWRL6RGflvyI_hj8CiP_JtsvVPg=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MLJkQJtZrVpFym5gSoxEM8UpK6cuQScdjS0s4vWgF0k=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VwXSRQctPreEAFR7MhR9u24siwK6i9p2cpeY9e-erss=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\B3Ru0PSGmEy9M21bndTRY_nOOuTPcG6PoivJ6-ZElxI=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8rXRnE7WRoM9ST7PED2kCWdTGe-sV5BT2dBfmVuXZG0=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\1aTnPDe0sOH4qdfcMV7k3ZHYdkosyjxNLDuv6YZ7A5k=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GW2RkHSxY45MJMQyeOktbzIfdrf1bB2s71UUTFnFzO0=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nPpgULD4_jHBvb8FhEUUQObr9l4YunPlpE4iW71Z7mQ=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ekJp5PV86z7_6BvMpTCQEDsa8_KmhX8Og-Tu8VxxKHY=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Features.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Features.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UwSpuapGrRTGRMp8xQstBg8IYAWR1FaT52b2s_u_iSU=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aAI-zR8ofhrhpwmIIhxLgxewtuggn4KhBn5OSc0kGfk=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oTDDg_k6eyNK0rolDeXh0FY3QB_GNf3Qzn2rSkcB0Ss=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CfZjHz0PLXKmA8CuD1Wpf1rb0jxKLcSiwPs2TQ0T34M=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ulpGjCDtEtbY8cHcXqWPIJc1n2LCcbyi3qwIcH62nfA=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5sjxqDTpeHW3cA5dOocAFg3hheVARLex3b5mSqY6wZ8=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GEEESGjp60Pz0w6P0rBI4nkOW6783tEILC7t1Vfk0M8=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vnU2V6apu-dLsVs7dW47SKZoeQzet46v1fcHxbArqoI=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\netstandard.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cs8pHUurDt0IqbB8YXPh560au3q3J-1wRL9jBddRVmE=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Newtonsoft.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\XM__SQHNZJ7yN7v1k5DDoYp-hiW9QgiFGdbALMgMKzI=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MvFflljxCU_cM0FjsA6EPb0niVKpSLUFtbmT99hA6zA=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Data.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oNehFHgILvAGiEEMxbOJZ1iOUcw9iEOaEfhRhgBCL9o=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Diagnostics.DiagnosticSource.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.DiagnosticSource.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VIPsrDfMLy_-rKjkb4lNwC5gSuDj-ZzBI7rg4tqnK7Y=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tdkvO_MkS6ktlU1h7xULP39c5sewXt5YT3zp8WiocYk=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.IO.Pipelines.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Pipelines.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nSrlpSteq8RvikITdqHvWdI0mpq9OLi5Rda0_fV2Dp8=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\p5yZhbC-MUzDsl81HYONPWoY1I_02pChv-m8zCc5L58=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\iJvznMwvDWy-CUN1i0GqNRQ1pYh7E7FNBus9ZHbHem4=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jUhvpUsW2mTE0WvLac9cp0lpEdSTQbcDVLQZhnX5F1U=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Numerics.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yYAO4THd-fsRUrDkkv3e76DRoGka0iLjnXWEIVvI2Og=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RsD9tTwxTRLKwqo6Efpx6dA5Y8Ck5Yyg2NALyKMkp1E=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EgiwiZFJI0sPeqepiF7XnkDxrwR072AxsLFj5lbOqL4=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Fgeg88ZTGAc9FkJII5qtGnbsZ035V0fhDkTH5TaLy40=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SVmzMSOG6jCzXud5gceqb7-N0BgIjmWh_p-Gv6tW32g=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Threading.Channels.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Channels.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mz_oxcoFo26bYbnJA3gpH_0kMH2AJlrQY01Kwv10pew=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\S-EVIZJimSOMGTNSK-iHNrGsnXI7bYJ9Keu8DxbXZeI=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.Linq.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\98zrLR3yt2PHAk02W_mVLS24wL_DhNWZ5QOzN4ZAHrM=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\videocalling_blazor.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/videocalling_blazor.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\B9WNdXfGcFiKg8lMskUTKDFJHmLObOyHEo4IEszSdpY=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\videocalling_blazor.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/videocalling_blazor.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jM3c1MwuIQ3_jRcEm_6toiqGqhh160fc_lQHSlk0fY0=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_IwDXfFxs0sa0FqsEmHWqoCSOv3DVxK06lSOHuy05l4=.hash",
+      "Source": "E:\\OfficeData\\angular_workspace\\soowgood\\videocalling_blazor\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}

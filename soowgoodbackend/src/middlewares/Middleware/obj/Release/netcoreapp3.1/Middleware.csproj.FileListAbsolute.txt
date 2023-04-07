@@ -1,0 +1,10 @@
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.deps.json
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.dll
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.pdb
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.dll
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.pdb
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.csproj.AssemblyReference.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.GeneratedMSBuildEditorConfig.editorconfig

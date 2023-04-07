@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace IdentityMicroservice.Model
+{
+    public class ProviderInfo: TableHistory
+    {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public string Id { get; set; }
+        public string ProviderCategoryInfoId { get; set; }
+        public string Provider { get; set; }
+        public string ImageURL { get; set; }
+        public int SequenceNo { get; set; }
+        public bool IsDefault { get; set; }
+    }
+}

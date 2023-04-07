@@ -1,0 +1,142 @@
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+D:\Projects\.NET Core\store-master_2\store-master\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\SooGood\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+D:\SooGooD Code\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+D:\SooGooD Code\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\SooGooD Code\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+D:\SooGooD Code\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\New folder\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\03032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\08-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\09032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\17032021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\aa\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Faysal\home\project\08042021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Work\Personal\Project\WebDev\15-03-2021\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+D:\Projects\.NET Core\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+D:\Imon\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+D:\Imon\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\Imon\soogood\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+D:\Imon\soogood\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\Tanbir\soogoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.AssemblyReference.cache
+E:\OfficeData\angular_workspace\soowgood\soowgoodbackend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.GeneratedMSBuildEditorConfig.editorconfig

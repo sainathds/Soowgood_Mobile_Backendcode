@@ -1,0 +1,434 @@
+﻿@page "/"
+@using videocalling_blazor.Client.Components
+@using Microsoft.AspNetCore.Components;
+@using Microsoft.AspNetCore.Components.Web;
+@using Microsoft.AspNetCore.SignalR.Client;
+@using Microsoft.Extensions.DependencyInjection;
+@using Microsoft.JSInterop;
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Net.Http;
+@using System.Net.Http.Json;
+@using System.Threading.Tasks;
+@using videocalling_blazor.Client.Interop;
+@using videocalling_blazor.Shared;
+@using System.Web;
+@using Newtonsoft.Json;
+
+
+@inject NavigationManager NavManager
+
+
+@if (_isloader == true)
+{
+    <div class="loadingdiv">
+        <div class="spinner"></div>
+    </div>
+}
+
+<div class="container-fluid">
+    <div class="row h-100">
+        <div class="col-12">
+            <div class="row banner">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-6 col-sm-12">
+                            <img src="/images/SoowGood-Logo.png" class="logo_sooWGood" />
+
+                            <h4>@_testroomName</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-6 col-sm-12" style="padding-bottom: 10px;padding-top: 20px;">
+
+                            @if (_activeRoom != null)
+                            {
+
+                                <div style="text-align:center">
+                                    @if (_isAudioOn == "")
+                                    {
+                                        <button class="btn btn-lg twilio-btn-blue" style="margin-right:20px" @onclick="@(async _ => await OnUnMuteandMuteAudioRoom(true))">
+                                            <i class="fas fa-microphone" aria-label="Join room"></i>
+                                        </button>
+                                    }
+                                    else
+                                    {
+                                        <button class="btn btn-lg twilio-btn-red" style="margin-right:20px" @onclick="@(async _ => await OnUnMuteandMuteAudioRoom(false))">
+                                            <i class="fas fa-microphone-slash" aria-label="Join room"></i>
+                                        </button>
+                                    }
+
+
+
+
+                                    @if (_isCammeraOn == "")
+                                    {
+                                        <button class="btn btn-lg twilio-btn-blue" style="margin-right:20px" @onclick="@(async _ => await OnUnMuteandMuteVideoRoom(true))">
+                                            <i class="fas fa-video" aria-label="Join room"></i>
+                                        </button>
+                                    }
+                                    else
+                                    {
+                                        <button class="btn btn-lg twilio-btn-red" style="margin-right:20px" @onclick="@(async _ => await OnUnMuteandMuteVideoRoom(false))">
+                                            <i class="fas fa-video-slash" aria-label="Join room"></i>
+                                        </button>
+                                    }
+
+                                    <button class="btn btn-lg twilio-btn-red" @onclick="@(async _ => await OnLeaveRoom())">
+                                        <i class="fas fa-phone" style="-ms-transform: rotate(230deg);-webkit-transform: rotate(230deg);transform: rotate(230deg);" aria-label="Join room"></i>
+                                    </button>
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @if (_activeRoom == null)
+            {
+                <div class="row">
+                    <div class="col-md-6 col-lg-6 offset-lg-3 offset-md-3 col-sm-12">
+                        <div class="jumbotron p-4">
+                            <div class="row">
+                                <div class="col-md-12 col-lg-12 col-sm-12" style="margin-bottom:5px;">
+                                    <Cameras CameraChanged="OnCameraChanged" />
+                                </div>
+                                <div class="col-md-12 col-lg-12 col-sm-12" style="text-align:center;">
+
+                                    <div style="text-align:center;">
+                                        <button class="btn btn-lg twilio-btn-blue"
+                                                disabled="@(_activeCamera is null)"
+                                                @onclick="@(async args => await TryAddRoom(args))">
+                                            <i class="fa fa-phone-alt" aria-label="Join room"></i>
+                                            Connect
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+            <div class="row embed-responsive-participant">
+                <div class="col-12">
+                    <div id="participants" class="participants-grid">
+                        <div class="embed-responsive embed-responsive-16by9 initiatecall">
+                            <div id="camera" class="embed-responsive-item"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            @foreach (var room in _rooms!)
+            {
+
+                @if (room.ParticipantCount != room.MaxParticipants)
+                {
+                    <div class="row paticipentloaderbeforejoin">
+                        
+                        <div class="col-12 beforejoin">
+                             <div class="spinner1"></div>
+                            Wait till other participant will join in this call
+                        </div>
+                    </div>
+                }
+
+
+            }
+
+
+
+        </div>
+
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public string? _room { get; set; }
+    [Inject]
+    protected IJSRuntime? JavaScript { get; set; }
+    [Inject]
+    protected NavigationManager NavigationManager { get; set; } = null!;
+    [Inject]
+    protected HttpClient Http { get; set; } = null!;
+
+    List<RoomDetails> _rooms = new List<RoomDetails>();
+
+    string? _testroomName;
+    string? _roomName;
+    string? _activeCamera;
+    string? _activeRoom;
+    string? _bookingid;
+    string? _serviceforname;
+    string? _usertype;
+    string? _username;
+
+    HubConnection? _hubConnection;
+    bool? _isloader = false;
+
+    string? _isCammeraOn = "";
+    string? _isAudioOn = "";
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        var uri = NavigationManager.ToAbsoluteUri(NavigationManager.Uri);
+        //if (QueryHelpers.ParseQuery(uri.Query).TryGetValue("_room", out var _rName))
+        //{
+        //    _testroomName = _rName;
+        //}
+
+        var data = HttpUtility.ParseQueryString(new Uri(NavigationManager.Uri).Query);
+        if (data["_data"] == null)
+        {
+            NavigationManager.NavigateTo("errorpage?code=404");
+        }
+        else
+        {
+            _isloader = true;
+            _bookingid = data["_data"];
+            _usertype = data["_usertype"];
+            await GetAppointDetailsForCall(_bookingid, _usertype);
+        }
+
+    }
+
+
+    async ValueTask OnUnMuteandMuteVideoRoom(bool cammerastatus)
+    {
+        await JavaScript.UnMuteandMuteVideoRoomAsync(_testroomName, cammerastatus);
+        if (cammerastatus == true)
+        {
+            _isCammeraOn = "inactive";
+        }
+        else
+        {
+            _isCammeraOn = "";
+        }
+    }
+
+
+    async ValueTask OnUnMuteandMuteAudioRoom(bool cammerastatus)
+    {
+        await JavaScript.UnMuteandMuteAudioRoomAsync(_testroomName, cammerastatus);
+        if (cammerastatus == true)
+        {
+            _isAudioOn = "inactive";
+        }
+        else
+        {
+            _isAudioOn = "";
+        }
+    }
+
+
+
+
+
+    async ValueTask OnLeaveRoom()
+    {
+        await JavaScript.LeaveRoomAsync();
+        _activeRoom = null;
+        if (!string.IsNullOrWhiteSpace(_activeCamera))
+            //await JavaScript.StartVideoAsync(_activeCamera, "#camera");
+            NavigationManager.NavigateTo("/leavemeeting?_data=" + _bookingid + "&_usertype=" + _usertype, forceLoad: true);
+
+
+    }
+
+    async Task OnCameraChanged(string activeCamera) =>
+        await InvokeAsync(() => _activeCamera = activeCamera);
+
+    async Task OnRoomAdded(string roomName) =>
+        await InvokeAsync(async () =>
+        {
+            _rooms = await Http.GetFromJsonAsync<List<RoomDetails>>("api/twilio/rooms");
+            StateHasChanged();
+        });
+
+    protected async ValueTask TryAddRoom(object args)
+    {
+        _isloader = true;
+        if (_testroomName is null || _testroomName is { Length: 0 })
+        {
+            _isloader = false;
+            return;
+        }
+        else
+        {
+
+            _roomName = _testroomName;
+        }
+
+        var takeAction = args switch
+        {
+            KeyboardEventArgs keyboard when keyboard.Key == "Enter" => true,
+            MouseEventArgs _ => true,
+            _ => false
+        };
+
+        if (takeAction)
+        {
+            var addedOrJoined = await TryJoinRoom(_roomName, _serviceforname, _username);
+            if (addedOrJoined)
+            {
+                await JavaScript.JoinRoomSuccessAsync();
+                await OnRoomAdded(_roomName);
+                //await sendnotificationatcallstarted(_bookingid, _usertype);
+                _isloader = false;
+                _roomName = null;
+            }
+            else
+            {
+                _isloader = false;
+            }
+        }
+    }
+
+
+
+
+
+    protected async ValueTask<bool> sendnotificationatcallstarted(string? bookingid, string? usertype)
+    {
+        if (bookingid is null || bookingid is { Length: 0 })
+        {
+            return false;
+        }
+        var postBody = new BookData { Id = bookingid, usertype= usertype };
+        var bookingdata = await Http.PostAsJsonAsync("api/appointment/sendnotificationatcallstarted", postBody);
+        string apiResponse = await bookingdata.Content.ReadAsStringAsync();
+        List<BookData> response = JsonConvert.DeserializeObject<List<BookData>>(apiResponse);
+
+        return true;
+
+
+    }
+
+
+    protected async ValueTask<bool> GetAppointDetailsForCall(string? bookingid, string? usertype)
+    {
+        if (bookingid is null || bookingid is { Length: 0 })
+        {
+            return false;
+        }
+        var postBody = new BookData { Id = bookingid };
+        var bookingdata = await Http.PostAsJsonAsync("api/appointment/GetAppointmentDataForBooking", postBody);
+        string apiResponse = await bookingdata.Content.ReadAsStringAsync();
+        List<BookData> response = JsonConvert.DeserializeObject<List<BookData>>(apiResponse);
+        if (response is null)
+        {
+            _isloader = false;
+            NavigationManager.NavigateTo("errorpage?code=404");
+        }
+        if (response.Count > 0)
+        {
+            foreach (BookData data in response)
+            {
+                if (data.callstatus == "Start Soon")
+                {
+                    _testroomName = "Meeting For " + data.AppointmentDate + " - [ " + data.scheduleTime + " ] ";
+                    if (usertype == "provider")
+                    {
+                        string newavtar = "";
+                        string[] sname = data.ServiceProvider.Split(' ');
+
+                        if (sname.Length == 1)
+                        {
+                            newavtar = sname[0].Substring(0, 2);
+                        }
+                        else if (sname.Length == 2)
+                        {
+                            newavtar = sname[0].Substring(0, 1) + sname[1].Substring(0, 1);
+                        }
+                        else if (sname.Length == 3)
+                        {
+                            newavtar = sname[0].Substring(0, 1) + sname[2].Substring(0, 1);
+                        }
+
+                        _username = data.ServiceProvider;
+                        _serviceforname = newavtar.ToUpper();
+                    }
+                    else
+                    {
+                        string newavtar = "";
+                        string[] sname = data.ServiceReceiver.Split(' ');
+
+                        if (sname.Length == 1)
+                        {
+                            newavtar = sname[0].Substring(0, 2);
+                        }
+                        else if (sname.Length == 2)
+                        {
+                            newavtar = sname[0].Substring(0, 1) + sname[1].Substring(0, 1);
+                        }
+                        else if (sname.Length == 3)
+                        {
+                            newavtar = sname[0].Substring(0, 1) + sname[2].Substring(0, 1);
+                        }
+                        _username = data.ServiceProvider;
+                        _serviceforname = newavtar.ToUpper();
+                    }
+                }
+                else if (data.callstatus == "TimeOut")
+                {
+                    NavigationManager.NavigateTo("errorpage?code=505");
+                }
+                else if (data.callstatus == "Completed")
+                {
+                    NavigationManager.NavigateTo("errorpage?code=507");
+                }
+                else if (data.callstatus == "Yet to Start")
+                {
+                    NavigationManager.NavigateTo("errorpage?code=506");
+                }
+            }
+            _isloader = false;
+        }
+        else
+        {
+            _isloader = false;
+            NavigationManager.NavigateTo("errorpage?code=404");
+        }
+
+        return true;
+
+
+    }
+
+
+
+
+    protected async ValueTask<bool> TryJoinRoom(string? roomName, string? _serviceforname, string? _username)
+    {
+        if (roomName is null || roomName is { Length: 0 })
+        {
+            return false;
+        }
+
+        var jwt = await Http.GetFromJsonAsync<TwilioJwt>("api/twilio/token");
+        if (jwt?.Token is null)
+        {
+            return false;
+        }
+
+        var joined = await JavaScript.CreateOrJoinRoomAsync(roomName, jwt.Token, _serviceforname, _username);
+        if (joined)
+        {
+            _activeRoom = roomName;
+
+
+        }
+
+        return joined;
+    }
+}

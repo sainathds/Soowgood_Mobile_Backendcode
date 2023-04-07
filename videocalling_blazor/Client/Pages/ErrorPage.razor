@@ -1,0 +1,65 @@
+﻿@page "/errorpage"
+@using System.Web;
+
+
+<div class="container-fluid">
+    <div class="row h-100">
+        <div class="col-12">
+            <div class="row banner">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-6 col-sm-12">
+                            <img src="/images/SoowGood-Logo.png" class="logo_sooWGood" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row h-500">
+        <div class="col-12">
+            <div class="row">
+                <div class="col-8 offset-2 errorpage">
+                    <h2 style="padding-top: 15%; padding-left: 15%;font-weight:bold;">@_errorheader</h2>
+                    <p style="padding-left: 15%;">@_errortext</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    [Inject]
+    protected NavigationManager NavigationManager { get; set; } = null!;
+
+    string? _errorheader;
+    string? _errortext;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var data = HttpUtility.ParseQueryString(new Uri(NavigationManager.Uri).Query);
+
+        if (data["code"] == "404")
+        {
+            _errorheader = "Page Not Found.";
+            _errortext = "Sorry, the page you're looking for doesn't exists.";
+        }
+        else if (data["code"] == "505")
+        {
+            _errorheader = "Appointment Over.";
+            _errortext = "Sorry, Appointment schedule is over, please call your Provider.";
+        }
+        else if(data["code"] == "506")
+        {
+            _errorheader = "Appointment Not Start Yet.";
+            _errortext = "Sorry, Please check appointment schedule.";
+        }
+        else if (data["code"] == "507")
+        {
+            _errorheader = "Appointment Completed.";
+            _errortext = "Appointment has been completed";
+        }
+    }
+}
